@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# Halo semua!
+Perkenalkan nama saya **Dini Amalia Husaini**.<br>
+Saya merupakan mahasiswi prodi [**Mekatronika**](https://mechatronics.polytechnic.astra.ac.id/) di Astra Polytechnic. <br>
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dini-amalia-husaini-57b157276/)ku ya.
 <!--
 **dnnie11/dnnie11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

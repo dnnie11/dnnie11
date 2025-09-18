@@ -2,6 +2,14 @@
 Perkenalkan nama saya **Dini Amalia Husaini**.<br>
 Saya merupakan mahasiswi prodi [Mekatronika](https://mechatronics.polytechnic.astra.ac.id/) di Astra Polytechnic. <br>
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dini-amalia-husaini-57b157276/)ku ya.
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dnnie11">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dnnie11&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  
+</p>
+
 <!--
 **dnnie11/dnnie11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
